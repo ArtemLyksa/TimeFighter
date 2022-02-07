@@ -3,4 +3,5 @@
     <string name="yourScore">Your score is %1$d</string>
     <string name="timeLeft">Time left: %1$d</string>
     <string name="tapMe">TAP ME!</string>
+    <string name="gameOverMessage">Game over. Your total score is %1$d</string>
 </resources>
